@@ -1,0 +1,7 @@
+/target/
+**/*.rs.bk
+.vagrant
+Vagrantfile
+*.tar.xz
+vendor
+.vscode/**
